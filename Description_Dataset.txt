@@ -1,0 +1,17 @@
+###########################################################
+Detecting Fraud Calls vis-à-vis Natural Language Processing
+
+Author: Anurag Dutta (anuragdutta.research@gmail.com)
+###########################################################
+
+------
+Labels
+------
+
+1: Fraud
+0: Normal
+
+
+================
+||05925 Titles||
+================
