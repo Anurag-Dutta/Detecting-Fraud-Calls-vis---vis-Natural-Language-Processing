@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  26 DEC 2022 02:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  26 DEC 2022 19:57
 entering extended mode
-**"./Detecting Fraud Calls vis-à-vis Natural Language Processing.tex"
-(Detecting Fraud Calls vis-à-vis Natural Language Processing.tex
+**./sn-article.tex
+(sn-article.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27> (sn-jnl.cls
 Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Jour
@@ -711,41 +711,76 @@ Package: ragged2e 2021/02/05 v3.0 ragged2e Package
 \RaggedRightParindent=\skip82
 \JustifyingParindent=\skip83
 )
+(C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathto
+ols.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
+
+(C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count325
+\calc@Bcount=\count326
+\calc@Adimen=\dimen303
+\calc@Bdimen=\dimen304
+\calc@Askip=\skip84
+\calc@Bskip=\skip85
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count327
+\calc@Cskip=\skip86
+)
+(C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetu
+p.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count328
+\l_MT_multwidth_dim=\dimen305
+\origjot=\skip87
+\l_MT_shortvdotswithinadjustabove_dim=\dimen306
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen307
+\l_MT_above_intertext_sep=\dimen308
+\l_MT_below_intertext_sep=\dimen309
+\l_MT_above_shortintertext_sep=\dimen310
+\l_MT_below_shortintertext_sep=\dimen311
+\xmathstrut@box=\box68
+\xmathstrut@dim=\dimen312
+)
 (C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3back
 end-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count325
-\l__pdf_internal_box=\box68
-)
-(Detecting Fraud Calls vis-à-vis Natural Language Processing.aux)
-\openout1 = `"Detecting Fraud Calls vis-à-vis Natural Language Processing.aux"
-'.
+\l__color_backend_stack_int=\count329
+\l__pdf_internal_box=\box69
+) (sn-article.aux)
+\openout1 = `sn-article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
 \footinsA=\insert252
-\c@footnoteA=\count326
-LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 72.
+\c@footnoteA=\count330
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 74.
 LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
-(Font)                  U/msa/m/n --> U/msa/m/n on input line 72.
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 74.
 LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
-(Font)                  U/msa/m/n --> U/msa/m/n on input line 72.
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 74.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -786,16 +821,16 @@ LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
 (C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp
 -pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count327
-\scratchdimen=\dimen303
-\scratchbox=\box69
-\nofMPsegments=\count328
-\nofMParguments=\count329
+\scratchcounter=\count331
+\scratchdimen=\dimen313
+\scratchbox=\box70
+\nofMPsegments=\count332
+\nofMParguments=\count333
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count330
-\MPscratchDim=\dimen304
-\MPnumerator=\count331
-\makeMPintoPDFobject=\count332
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen314
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
 \everyMPtoPDFconversion=\toks38
 )
 (C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\eps
@@ -808,8 +843,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 f-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count333
-Package hyperref Info: Link coloring ON on input line 72.
+\c@lstlisting=\count337
+Package hyperref Info: Link coloring ON on input line 74.
 
 (C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref
 .sty
@@ -823,130 +858,127 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 \gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count334
+\c@section@level=\count338
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
-
-(Detecting Fraud Calls vis-à-vis Natural Language Processing.out)
-(Detecting Fraud Calls vis-à-vis Natural Language Processing.out)
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
+ (sn-article.out) (sn-article.out)
 \@outlinefile=\write3
-\openout3 = `"Detecting Fraud Calls vis-à-vis Natural Language Processing.out"
-'.
+\openout3 = `sn-article.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 125.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 127.
 
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 125.
+(Font)              size <8> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.43146> not available
-(Font)              size <8> substituted on input line 125.
+(Font)              size <8> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 125.
+(Font)              size <8> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 125.
+(Font)              size <8> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 125.
+(Font)              size <8> substituted on input line 127.
 
 LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 12
-5.
+7.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 125.
+(Font)              size <6> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.52061> not available
-(Font)              size <6> substituted on input line 125.
+(Font)              size <6> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 125.
+(Font)              size <6> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 125.
+(Font)              size <6> substituted on input line 127.
 
-LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 125
+LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 127
 .
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.51686> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.51686> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.51686> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 127.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.51686> not available
-(Font)              size <5> substituted on input line 125.
+(Font)              size <5> substituted on input line 127.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
   
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
   
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
   
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 125--125
+Underfull \hbox (badness 3386) in paragraph at lines 127--127
  \OT1/cmr/bx/n/9 Con-clu-sion: \OT1/cmr/m/n/9 Fraud-u-lences have caught great 
 height in cur-rent 
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 125--125
+Underfull \hbox (badness 1603) in paragraph at lines 127--127
  \OT1/cmr/m/n/9 work of advanc-ing infor-mat-ics. The bet-ter-ments in the Info
 r-ma- 
  []
 
 
-Underfull \hbox (badness 3449) in paragraph at lines 125--125
+Underfull \hbox (badness 3449) in paragraph at lines 127--127
  \OT1/cmr/m/n/9 tion Tech-nol-ogy can be taken into account to avoid inno-cent 
 
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 125--125
+Underfull \hbox (badness 2310) in paragraph at lines 127--127
  \OT1/cmr/m/n/9 peo-ple from get-ting trapped. Gov-ern-ment can impose laws and
  
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 125--125
+Underfull \hbox (badness 3281) in paragraph at lines 127--127
  \OT1/cmr/m/n/9 reg-u-la-tions advis-ing the Tele-com Exchange com-pa-nies to i
 ntro- 
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 125--125
+Underfull \hbox (badness 2644) in paragraph at lines 127--127
  \OT1/cmr/m/n/9 duce the Scam Call Clas-si-fier Tech-nique as their key ele-men
 t. 
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 125--125
+Underfull \hbox (badness 3872) in paragraph at lines 127--127
  \OT1/cmr/m/n/9 This would adversely impact the surg-ing rate of Fraud-u-lence.
  
  []
@@ -958,7 +990,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 {C:/Users/Anurag Dutta/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 12
-5.
+7.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -967,7 +999,7 @@ Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
@@ -979,10 +1011,10 @@ Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
 
 [3]
-<1.png, id=41, 1388.18625pt x 1315.91624pt>
+<1.png, id=87, 1388.18625pt x 1315.91624pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 151.
+Package pdftex.def Info: 1.png  used on input line 153.
 (pdftex.def)             Requested size: 338.58778pt x 320.96663pt.
 
 
@@ -1003,51 +1035,289 @@ Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
 
 [5 <./1.png>]
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 159.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
 
-[6] (Detecting Fraud Calls vis-à-vis Natural Language Processing.aux)
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 197.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 197.
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 198
+.
+
+(C:\Users\Anurag Dutta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 201--206
+
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 208--212
+[]$ \OT1/cmr/m/n/10 is num-ber of texts that use the word $\OMS/cmsy/m/n/10 t$\
+OT1/cmr/m/n/10 . Now, if
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[9]
+<PRC_SVM.png, id=170, 393.47pt x 262.9825pt>
+File: PRC_SVM.png Graphic file (type png)
+<use PRC_SVM.png>
+Package pdftex.def Info: PRC_SVM.png  used on input line 250.
+(pdftex.def)             Requested size: 338.58778pt x 226.30096pt.
+<CM_SVM.png, id=171, 338.26375pt x 262.9825pt>
+File: CM_SVM.png Graphic file (type png)
+<use CM_SVM.png>
+Package pdftex.def Info: CM_SVM.png  used on input line 256.
+(pdftex.def)             Requested size: 338.58778pt x 263.24266pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[10 <./PRC_SVM.png>]
+<PRC_RF.png, id=182, 393.47pt x 262.9825pt>
+File: PRC_RF.png Graphic file (type png)
+<use PRC_RF.png>
+Package pdftex.def Info: PRC_RF.png  used on input line 273.
+(pdftex.def)             Requested size: 338.58778pt x 226.30096pt.
+<CM_RF.png, id=183, 338.26375pt x 262.9825pt>
+File: CM_RF.png Graphic file (type png)
+<use CM_RF.png>
+Package pdftex.def Info: CM_RF.png  used on input line 279.
+(pdftex.def)             Requested size: 338.58778pt x 263.24266pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[11 <./CM_SVM.png>]
+<PRC_KNN.png, id=194, 393.47pt x 262.9825pt>
+File: PRC_KNN.png Graphic file (type png)
+<use PRC_KNN.png>
+Package pdftex.def Info: PRC_KNN.png  used on input line 296.
+(pdftex.def)             Requested size: 338.58778pt x 226.30096pt.
+<CM_KNN.png, id=195, 338.26375pt x 262.9825pt>
+File: CM_KNN.png Graphic file (type png)
+<use CM_KNN.png>
+Package pdftex.def Info: CM_KNN.png  used on input line 302.
+(pdftex.def)             Requested size: 338.58778pt x 263.24266pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[12 <./PRC_RF.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[13 <./CM_RF.png>]
+<PRC_GNB.png, id=212, 393.47pt x 262.9825pt>
+File: PRC_GNB.png Graphic file (type png)
+<use PRC_GNB.png>
+Package pdftex.def Info: PRC_GNB.png  used on input line 319.
+(pdftex.def)             Requested size: 338.58778pt x 226.30096pt.
+<CM_GNB.png, id=213, 332.24126pt x 262.9825pt>
+File: CM_GNB.png Graphic file (type png)
+<use CM_GNB.png>
+Package pdftex.def Info: CM_GNB.png  used on input line 325.
+(pdftex.def)             Requested size: 338.58778pt x 268.0219pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(sn-article.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[14 <./PRC_KNN.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[15 <./CM_KNN.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[16 <./PRC_GNB.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[17 <./CM_GNB.png>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[18] (sn-article.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package rerunfilecheck Info: File `"Detecting Fraud Calls vis-à-vis Natural La
-nguage Processing".out' has not changed.
-(rerunfilecheck)             Checksum: DE0D5C63387CCBF11FB4665872EBDEE7;362.
+Package rerunfilecheck Info: File `sn-article.out' has not changed.
+(rerunfilecheck)             Checksum: CB2D424E242C86373C421FA4FAC332B8;857.
  ) 
 Here is how much of TeX's memory you used:
- 14022 strings out of 478927
- 205464 string characters out of 2849181
- 532045 words of memory out of 3000000
- 31600 multiletter control sequences out of 15000+600000
- 432180 words of font info for 143 fonts, out of 8000000 for 9000
+ 14839 strings out of 478927
+ 219292 string characters out of 2849181
+ 550140 words of memory out of 3000000
+ 32342 multiletter control sequences out of 15000+600000
+ 433740 words of font info for 150 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 75i,7n,80p,4577b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,8n,80p,4804b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Anurag Dutta/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Anura
-g Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
-<C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmmi8.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cmextra/cmmib9.pfb><C:/Users/Anurag Dutta/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Anurag Dutta/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Anu
-rag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pf
-b><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr9.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Anurag Dutta/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Anurag D
-utta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Detecting Fraud Calls vis-à-vis Natural Language Processing
-.pdf" (6 pages, 269065 bytes).
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Anura
+g Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Anurag Dutta/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb><C:/Users/An
+urag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Anurag Dutta/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Anurag D
+utta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy5.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Anurag Dutta/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Anurag Du
+tta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/
+Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmtt10.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmtt12.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/euler/eufm10.pfb>
+Output written on sn-article.pdf (18 pages, 450274 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 351 PDF objects out of 1000 (max. 8388607)
+ 65 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
 
